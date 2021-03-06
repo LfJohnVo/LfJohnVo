@@ -3,11 +3,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm John!</h1>
 
 <h3 align="center">A passionate fullstack developer from México</h3>
-
+<img href="https://www.linkedin.com/in/johnvo95/" target="_blank" align="left" src="https://image.flaticon.com/icons/png/512/174/174857.png" width="30px;">
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="justify">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="40px;">
