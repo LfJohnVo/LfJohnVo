@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm John!</h1>
 
 <h3 align="center">A passionate fullstack developer from México</h3>
-<img href="https://www.linkedin.com/in/johnvo95/" target="_blank" align="left" src="https://image.flaticon.com/icons/png/512/174/174857.png" width="30px;">
+<a href="https://www.linkedin.com/in/johnvo95/" target="_blank"><img align="left" src="https://image.flaticon.com/icons/png/512/174/174857.png" width="30px;"></a>
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="justify">
