@@ -7,22 +7,31 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="justify">
-<span class="iconify" data-icon="logos-materializecss" data-inline="false"></span>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="40px;">
+<img src="https://iconape.com/wp-content/files/zg/371252/svg/371252.svg" width="65px">
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40px;">
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" width="40px;">
+<img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" width="40px;">
+<img src="https://www.markusantonwolf.com/media/pages/blog/alpine-js/1468511062-1596675049/alpinejs-logo.svg" width="40px;">
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="40px;">
+<img src="https://laravel-livewire.com/img/twitter.png" width="40pxM">
+<img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" width="80px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+<img src="https://community.infoblox.com/t5/image/serverpage/image-id/2195iA290BF7E3BA6064D/image-size/large/is-moderation-mode/true?v=1.0&px=999" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="40px;">
+<img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" width="40px;">
+<img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" width="40px;"> 
+<img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" width="40px;"
+<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="40px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
 </p>
-<script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
