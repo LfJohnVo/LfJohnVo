@@ -36,5 +36,5 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=LfJohnVo&count_private=true&show_icons=true&theme=tokyonight">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LfJohnVo&layout=compact&theme=tokyonight">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LfJohnVo&layout=compact&theme=tokyonight">
 
