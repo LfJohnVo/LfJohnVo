@@ -35,9 +35,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
 </p>
-<!--<p align="justify">-->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=LfJohnVo&count_private=true&show_icons=true&theme=radical">
 <p align="justify">
-<img width="300"" src="https://cdn.dribbble.com/users/1792477/screenshots/6816387/ezgif.com-resize__3_.gif">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LfJohnVo&layout=compact&theme=radical">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=LfJohnVo&count_private=true&show_icons=true&theme=radical"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LfJohnVo&layout=compact&theme=radical">
 </p>
