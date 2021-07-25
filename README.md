@@ -40,4 +40,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=LfJohnVo&count_private=true&show_icons=true&theme=radical">
 </p>
 <img src="https://github-profile-trophy.vercel.app/?username=LfJohnVo">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LfJohnVo">
