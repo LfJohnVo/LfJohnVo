@@ -3,8 +3,6 @@
 <h3 align="center">IM A FULLSTACK DEVELOPER FROM MÉXICO</h3>
 <p align="right"><img src="https://gpvc.arturio.dev/LfJohnVo"></p>
 
-I am a web developer and technology advisor.
-
 - 🔭 I’m currently working on KEE´X Ecommerce 
 - 🌱 I’m currently learning Fiber & React 
 
