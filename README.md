@@ -1,6 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm John!</h1>
 
-<img src="https://gpvc.arturio.dev/LfJohnVo"><h3 align="center">IM A FULLSTACK DEVELOPER FROM MÉXICO</h3>
+<h3 align="center">IM A FULLSTACK DEVELOPER FROM MÉXICO</h3>
+<span><img src="https://gpvc.arturio.dev/LfJohnVo"></span>
 
 - 🔭 I’m currently working on KEE´X Ecommerce 
 - 🌱 I’m currently learning Fiber & React 
