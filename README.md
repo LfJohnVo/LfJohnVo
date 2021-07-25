@@ -33,3 +33,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
 </p>
+<img src="https://github-profile-trophy.vercel.app/?username=LfJohnVo">
