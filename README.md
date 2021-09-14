@@ -14,7 +14,7 @@
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40px;">
 <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" width="40px;">
 <img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" width="40px;">
-<img src="https://www.markusantonwolf.com/media/pages/blog/alpine-js/1468511062-1596675049/alpinejs-logo.svg" width="40px;">
+<img src="https://www.markusantonwolf.com/topics/alpine-js/alpinejs-logo.svg" width="40px;">
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="40px;">
