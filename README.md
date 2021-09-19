@@ -4,7 +4,7 @@
 <p align="right"><img src="https://gpvc.arturio.dev/LfJohnVo"></p>
 
 - 🔭 I’m currently working on KEE´X Ecommerce 
-- 🌱 I’m currently learning Fiber & React 
+- 🌱 I’m currently learning Fiber, React adn Solidity 
 
 [<img src='https://image.flaticon.com/icons/png/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/johnvo95/) [<img src='https://cdn.worldvectorlogo.com/logos/gitlab.svg' alt='gitlab' height='40'>](https://gitlab.com/vojohn95)<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
