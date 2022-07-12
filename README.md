@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on KEE´X Ecommerce 
 - 🌱 I’m currently learning Fiber, Vue and Solidity 
-- 📫 How to reach me: vojohn95@gmail.com [<img src='https://image.flaticon.com/icons/png/512/174/174857.png' alt='linkedin' height='25'>](https://www.linkedin.com/in/johnvo95/) 
+- 📫 How to reach me: vojohn95@gmail.com <img src='https://img.icons8.com/fluency/344/linkedin-circled.png' alt='linkedin' height='25'>
 - ⚡ Fact: I want to be a blockchain developer <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=014" width="25" height="25"/>
 
 [<img src='https://cdn.worldvectorlogo.com/logos/gitlab.svg' alt='gitlab' height='40'>](https://gitlab.com/vojohn95)<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40" height="40"/>
@@ -34,7 +34,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg](https://res.cloudinary.com/practicaldev/image/fetch/s--OC2nMFwz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/jnbbijkj42xnkaapjdnu.png)" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/gofiber/docs/master/static/fiber_v2_logo.svg" width="60" height="60"/>
 </p>
 <img align='right' style="margin-right: 0px;" src='https://camo.githubusercontent.com/3c553beb641d154ec09f3f1cce78f434eb72a9b2843dc45e5aa191cc6234b383/687474703a2f2f7374617469632e76656c76657463616368652e6f72672f70616765732f323031382f30362f31332f70617274792d676f706865722f64616e63696e672d676f706865722e676966' width='130px;'>
 <br>
