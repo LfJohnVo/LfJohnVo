@@ -4,7 +4,7 @@
 <p align="right" width="10px"><img src="https://gpvc.arturio.dev/LfJohnVo"></p>
 
 - 🔭 I’m currently working on KEE´X Ecommerce 
-- 🌱 I’m currently learning Fiber, Echo, Vue and Solidity 
+- 🌱 I’m currently learning Fiber, Vue and Solidity 
 - 📫 How to reach me: vojohn95@gmail.com <img src='https://img.icons8.com/fluency/344/linkedin-circled.png' alt='linkedin' height='25'>
 - ⚡ Fact: I want to be a blockchain developer <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=014" width="25" height="25"/>
 
