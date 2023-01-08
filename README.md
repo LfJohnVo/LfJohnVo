@@ -8,7 +8,9 @@
 - 📫 How to reach me: vojohn95@gmail.com <img src='https://img.icons8.com/fluency/344/linkedin-circled.png' alt='linkedin' height='25'>
 - ⚡ Fact: I want to be a blockchain developer <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=014" width="25" height="25"/>
 
-[<img src='https://cdn.worldvectorlogo.com/logos/gitlab.svg' alt='gitlab' height='40'>](https://gitlab.com/vojohn95)<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40" height="40"/>
+<h3 align="center">My Stack</h3>
+
+[<img src='[https://cdn.worldvectorlogo.com/logos/gitlab.svg](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)' alt='gitlab' height='40'>](https://gitlab.com/vojohn95)<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="40px;">
