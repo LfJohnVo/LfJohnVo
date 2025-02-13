@@ -64,6 +64,7 @@
 <img src="https://img.shields.io/badge/New Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white">
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
 <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
+<img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white">
 
 &nbsp;
 </p>
