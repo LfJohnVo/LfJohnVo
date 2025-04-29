@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on KEE´X Ecommerce
 - 🌱 I’m currently learning: <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>,&nbsp; <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>&nbsp; and &nbsp; <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white"/>&nbsp;
 - 📫 How to reach me: &nbsp;<a href="https://www.linkedin.com/in/johnvo95/"><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='25'></a>
-- ⚡ Fact: I want to be a blockchain developer <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=014" width="25" height="25"/>
+- ⚡ Fact: Love blockchain development <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=014" width="25" height="25"/>
 <br>
 <h3 align="center">🚀 My Stack</h3>
 <h3 align="left">🚀 Frontend</h3>
@@ -23,6 +23,8 @@
 <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" heigth="32px;"/>&nbsp;
 <img src="https://img.shields.io/badge/livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white">
 <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+
 
 <h3 align="left">🚀 Backend</h3>
 <p>
