@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm John!</h1>
 
-<h3 align="center">IM A FULLSTACK DEVELOPER FROM MÉXICO</h3>
+<h3 align="center">Software Engineering Manager | Full Stack Developer | AI & LLMs | Software Architecture
+I build scalable digital products, lead software development processes, and explore AI/LLM-based automation to improve business workflows.</h3>
 <p align="right" width="10px"><img src="https://gpvc.arturio.dev/LfJohnVo"></p>
 
-- 🔭 I’m currently working on KEE´X Ecommerce
 - 🌱 I’m currently learning: <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>,&nbsp; <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>&nbsp; and &nbsp; <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white"/>&nbsp;
 - 📫 How to reach me: &nbsp;<a href="https://www.linkedin.com/in/johnvo95/"><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='25'></a>
 - ⚡ Fact: Love blockchain development <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=014" width="25" height="25"/>
