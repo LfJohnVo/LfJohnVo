@@ -1,76 +1,125 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm John!</h1>
-
-<h3 align="center">Software Engineering Manager | Full Stack Developer | AI & LLMs | Software Architecture
-I build scalable digital products, lead software development processes, and explore AI/LLM-based automation to improve business workflows.</h3>
-<p align="right" width="10px"><img src="https://gpvc.arturio.dev/LfJohnVo"></p>
-
-- 🌱 I’m currently learning: <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>,&nbsp; <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>&nbsp; and &nbsp; <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white"/>&nbsp;
-- 📫 How to reach me: &nbsp;<a href="https://www.linkedin.com/in/johnvo95/"><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='25'></a>
-- ⚡ Fact: Love blockchain development <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=014" width="25" height="25"/>
-<br>
-<h3 align="center">🚀 My Stack</h3>
-<h3 align="left">🚀 Frontend</h3>
-
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="32px"/>&nbsp;
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="32px"/>&nbsp;
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="32px"/>&nbsp;
-<img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="32px">&nbsp;
-<img src="https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0">&nbsp;
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" heigth="32px;">&nbsp;
-<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="32px;">&nbsp;
-<img src="https://iconape.com/wp-content/files/zg/371252/svg/371252.svg" width="50px" >&nbsp;
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" heigth="32px;">&nbsp;
-<img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" heigth="32px;"/>&nbsp;
-<img src="https://img.shields.io/badge/livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white">
-<img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-<img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white">
-
-
-<h3 align="left">🚀 Backend</h3>
-<p>
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" height="32px;">&nbsp;
-<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" height="32px;">&nbsp;
-<img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" height="32px;"/>&nbsp;
-<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" height="32px;"/>&nbsp;
-<img src="https://gofiber.io/assets/images/embed.png" width="60" height="30"/>&nbsp;
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="32px;"/>&nbsp;
-<img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="32px;"/>&nbsp;
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" height="32px;"/>&nbsp;
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="32px;"/>&nbsp;
-<img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" height="32px;" />&nbsp;
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" height="32px;"/>&nbsp;
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" height="32px;"/>&nbsp;
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="32px;"/>&nbsp;
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="32px;"/>&nbsp;
-<img src='https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab' alt='gitlab' height='35'>&nbsp;
-<img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" height="32px;"/>&nbsp;
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="32px;"/>&nbsp;
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="32px;"/>&nbsp;
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="32px;">&nbsp;
-<img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" height="32px;">&nbsp;
-<img src="https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0" height="32px;"> &nbsp;
-<img src="https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white" height="32px;">&nbsp;
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="32px;"/>
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" height="32px"/>
-<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" height="32px" />
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="32px" />
-<img src="https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white" height="32px" />
-<img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" height="32px" />
-<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" height="32px" />
-<img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" height="32px" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="32px" />
-<img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" height="32px" />
-<img src="https://img.shields.io/badge/Chocolatey-80B5E3?style=for-the-badge&logo=chocolatey&logoColor=fff" height="32px" />
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white">
-<img src="https://img.shields.io/badge/DATADOG-632CA6?style=for-the-badge&logo=datadog&logoColor=white">
-<img src="https://img.shields.io/badge/New Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white">
-<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
-<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
-<img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white">
-<img src="https://img.shields.io/badge/Sentry-black?style=for-the-badge&logo=Sentry&logoColor=#362D59>
-
-&nbsp;
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20John!&fontSize=42&fontColor=ffffff&animation=fadeIn&descSize=18&descAlignY=58" />
 </p>
-<img align='right' style="margin-right: 0px;" src='https://camo.githubusercontent.com/3c553beb641d154ec09f3f1cce78f434eb72a9b2843dc45e5aa191cc6234b383/687474703a2f2f7374617469632e76656c76657463616368652e6f72672f70616765732f323031382f30362f31332f70617274792d676f706865722f64616e63696e672d676f706865722e676966' width='130px;'>
-<br>
-<img src="https://github-profile-trophy.vercel.app/?username=LfJohnVo&row=1&column=6">
+
+<h3 align="center">
+  Software Engineering Manager | Full Stack Developer | AI & LLMs | Software Architecture
+</h3>
+
+<p align="center">
+  I build scalable digital products, lead software development processes, and explore AI/LLM-based automation to improve business workflows.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/johnvo95/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="42" alt="LinkedIn" />
+  </a>
+</p>
+
+
+## 👨‍💻 About Me
+
+I'm a Software Engineering Manager and Full Stack Developer focused on building scalable products, leading engineering teams, and applying AI/LLMs to automate business workflows.
+
+- 🔭 Currently working on scalable digital products and automation tools
+- 🧠 Interested in software architecture, backend systems, DevOps, AI and LLM integrations
+- 🚀 I enjoy turning business problems into reliable digital solutions
+- 👥 I lead software development teams, processes and technical execution
+- 💬 Ask me about Laravel, Go, Next.js, APIs, DevOps and AI workflows
+- ⚡ Fact: I love blockchain development <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=014" width="22" height="22" />
+
+---
+
+## 🧩 What I Do
+
+- 🏗️ Design scalable software architectures
+- 👥 Lead engineering teams and development processes
+- 🔌 Build APIs, integrations and backend platforms
+- 🤖 Explore AI/LLM automation for business workflows
+- 🚀 Ship full stack products from idea to production
+- 📊 Improve systems through observability, automation and continuous delivery
+
+---
+
+## 🌱 Currently Learning
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,react,solidity&theme=dark" />
+  </a>
+</p>
+
+---
+
+## 🚀 My Stack
+
+### Frontend
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,alpinejs,react,bootstrap,tailwind,nextjs,astro&theme=dark&perline=10" />
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white" height="32" />
+</p>
+
+---
+
+### Backend
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,go,py,fastapi,nodejs,express,cs,mysql,postgres,redis,flask,c&theme=dark&perline=14" />
+  </a>
+</p>
+
+<p>
+  <img src="https://gofiber.io/assets/images/embed.png" width="60" height="30" alt="Fiber" />
+  <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" height="32" />
+</p>
+
+---
+
+### DevOps, Infrastructure & Tools
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,gitlab,githubactions,bash,linux,ubuntu,debian,docker,nginx,jenkins,vercel,sentry&theme=dark&perline=12" />
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0" height="32" />
+  <img src="https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Chocolatey-80B5E3?style=for-the-badge&logo=chocolatey&logoColor=fff" height="32" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/DATADOG-632CA6?style=for-the-badge&logo=datadog&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/New Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white" height="32" />
+</p>
+
+---
+
+## 🤖 AI, Automation & Architecture
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,go,postgres,redis,docker,linux&theme=dark&perline=8" />
+  </a>
+</p>
+
+```txt
+AI & LLM Workflows
+├── Prompt Engineering
+├── LangChain
+├── API Integrations
+├── Workflow Automation
+├── Business Process Automation
+└── Backend Architecture
