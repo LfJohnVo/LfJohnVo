@@ -49,6 +49,12 @@ I'm a Software Engineering Manager and Full Stack Developer focused on building 
   </a>
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge&logo=openai&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/RAG%20Systems-2563EB?style=for-the-badge&logo=googlegemini&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/LLM%20Apps-412991?style=for-the-badge&logo=openai&logoColor=white" height="32" />
+</p>
+
 ---
 
 ## 🚀 My Stack
@@ -77,7 +83,7 @@ I'm a Software Engineering Manager and Full Stack Developer focused on building 
 </p>
 
 <p>
-  <img src="https://gofiber.io/assets/images/embed.png" width="60" height="30" alt="Fiber" />
+  <img src="https://img.shields.io/badge/Go%20Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="32" />
   <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="32" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" height="32" />
 </p>
@@ -103,6 +109,8 @@ I'm a Software Engineering Manager and Full Stack Developer focused on building 
   <img src="https://img.shields.io/badge/New Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white" height="32" />
   <img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white" height="32" />
   <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/CodeRabbit-FF570A?style=for-the-badge&logo=github&logoColor=white" height="32" />
 </p>
 
 ---
@@ -115,6 +123,15 @@ I'm a Software Engineering Manager and Full Stack Developer focused on building 
   </a>
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/AI%20Agents-2563EB?style=for-the-badge&logo=googlegemini&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-0F172A?style=for-the-badge&logo=semanticweb&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=for-the-badge&logo=probot&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Workflow%20Automation-059669?style=for-the-badge&logo=n8n&logoColor=white" height="32" />
+</p>
+
 ```txt
 AI & LLM Workflows
 ├── Prompt Engineering
@@ -123,3 +140,13 @@ AI & LLM Workflows
 ├── Workflow Automation
 ├── Business Process Automation
 └── Backend Architecture
+```
+
+## 🧠 Engineering Practices
+
+<p>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-0F172A?style=for-the-badge&logo=dependabot&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/API%20Design-2563EB?style=for-the-badge&logo=swagger&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/CI%2FCD-111827?style=for-the-badge&logo=githubactions&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Code%20Quality-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" height="32" />
+</p>
