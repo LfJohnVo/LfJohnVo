@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/johnvo95/">
+  <a href="https://www.linkedin.com/in/lfjohnvo/">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="42" alt="LinkedIn" />
   </a>
 </p>
