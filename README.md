@@ -3,30 +3,30 @@
 </p>
 
 <h3 align="center">
-  Software Engineering Manager | Full Stack Developer | AI & LLMs | Software Architecture
+  Software Engineering Manager | Software Architecture, Full Stack Development & AI (LLMs)
 </h3>
 
 <p align="center">
-  I build scalable digital products, lead software development processes, and explore AI/LLM-based automation to improve business workflows.
+  I work on software architecture and on taking generative AI to production, with security, cost and governance in mind.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lfjohnvo/">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="42" alt="LinkedIn" />
   </a>
+  <a href="https://lfjohnvo.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-lfjohnvo.vercel.app-2563EB?style=for-the-badge" height="42" alt="Portfolio" />
+  </a>
 </p>
 
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineering Manager and Full Stack Developer focused on building scalable products, leading engineering teams, and applying AI/LLMs to automate business workflows.
-
-- 🔭 Currently working on scalable digital products and automation tools
-- 🧠 Interested in software architecture, backend systems, DevOps, AI and LLM integrations
-- 🚀 I enjoy turning business problems into reliable digital solutions
-- 👥 I lead software development teams, processes and technical execution
-- 💬 Ask me about Laravel, Go, Next.js, APIs, DevOps and AI workflows
-- ⚡ Fact: I love blockchain development <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=014" width="22" height="22" />
+- 👥 I lead engineering teams and design solution architectures.
+- 🤖 I take generative AI to production: RAG, agents, evaluation and cost control.
+- 🛠️ I still code, mostly with Laravel, Go, Python and Next.js, working with Claude Code and Codex.
+- 🧪 I publish open projects such as [RoveQA](https://github.com/LfJohnVo/RoveQA), a local-first agentic web testing platform.
+- 💬 Ask me about software architecture, RAG, AI agents, FinOps, Laravel and Go.
 
 ---
 
@@ -35,7 +35,7 @@ I'm a Software Engineering Manager and Full Stack Developer focused on building 
 - 🏗️ Design scalable software architectures
 - 👥 Lead engineering teams and development processes
 - 🔌 Build APIs, integrations and backend platforms
-- 🤖 Explore AI/LLM automation for business workflows
+- 🤖 Take AI/LLM features to production for business workflows
 - 🚀 Ship full stack products from idea to production
 - 📊 Improve systems through observability, automation and continuous delivery
 
@@ -45,7 +45,7 @@ I'm a Software Engineering Manager and Full Stack Developer focused on building 
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,react,solidity&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=aws&theme=dark" />
   </a>
 </p>
 
@@ -134,11 +134,11 @@ I'm a Software Engineering Manager and Full Stack Developer focused on building 
 
 ```txt
 AI & LLM Workflows
+├── RAG Pipelines & Evaluation
+├── AI Agents & Tool Use
+├── Amazon Bedrock & LangChain
 ├── Prompt Engineering
-├── LangChain
-├── API Integrations
 ├── Workflow Automation
-├── Business Process Automation
 └── Backend Architecture
 ```
 
